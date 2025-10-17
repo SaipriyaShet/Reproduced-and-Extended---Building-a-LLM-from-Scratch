@@ -1,7 +1,7 @@
 # Pretraining and Finetuning LLMs from the Ground Up
 
 <div align="center">
-<a href="https://youtu.be/quh7z1q7-uc?si=74AUYaVAgjumTHGM"><img src="https://sebastianraschka.com/images/blog/2024/building-llms-from-the-ground-up/yt-embed.jpg" width=500></a>
+
 </div>
 
 ## Overview
@@ -48,4 +48,5 @@ In addition, see the instructions in the [setup](./setup) folder to set up your 
 (The code material is based on my [Build a Large Language Model From Scratch](http://mng.bz/orYv) book and also uses the [LitGPT](https://github.com/Lightning-AI/litgpt) library.)
 
 This Repository is a fork of Sebastian Raschka original repo:[https://github.com/LLM-workshop-2024.git]
+
 Where i reproduced his implementation in VScode
